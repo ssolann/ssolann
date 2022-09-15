@@ -1,4 +1,4 @@
-![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+<h1 align="center">![](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <h1 align="center">Hi 👋, I'm Solan Duressa</h1>
 <h3 align="center">A passionate Data Scientist from Calgary Alberta</h3>
