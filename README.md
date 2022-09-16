@@ -1,6 +1,7 @@
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
 <h1 align="center">Hey There 👋, I'm Solan Duressa</h1>
-<h3 align="center">An aspiring Data Scientist who's constantly eager to learn new things</h3>
-
+<h3 align="center">An aspiring Data Scientist who is intrigued by visualization and analysis</h3>
+<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/CVtNe84hhYF9u/giphy.webp">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/birmadu duressa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birmadu duressa" height="30" width="40" /></a>
