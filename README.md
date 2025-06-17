@@ -1,5 +1,15 @@
-[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://rishavchanda.io)
-<h1 align="center">Solan Duressa</h1>
-<h3 align="center">Data Scientist intrigued by visualization and analysis</h3>
+[![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)](https://solanduressa.com)
 
-Data Science professional who enjoys harnessing data to deliver unseen information. My skills include data management, analysis, statistical modeling, and machine learning. Most of all, my objective is to develop analytical models to solve problems and communicate complex ideas through compelling data visualizations.
+<h1 align="center">Solan Duressa</h1>
+<h3 align="center">Full Stack Developer | Passionate about building performant, scalable web applications</h3>
+
+I'm a Full Stack Engineer who thrives at the intersection of intuitive design and efficient code. I specialize in developing end-to-end web applications with a strong focus on performance, clean architecture, and seamless user experiences.
+
+🛠️ **Tech Stack:** JavaScript / TypeScript, React, Node.js, Python, FastAPI, PostgreSQL  
+🌐 **Frontend:** React, Next.js, TailwindCSS  
+🖥️ **Backend:** FastAPI, Express, REST APIs, PostgreSQL  
+☁️ **Tools & DevOps:** Git, Docker, CI/CD, Vercel, Railway  
+🎯 **Interests:** Scalable systems, UI/UX design, DevOps automation, personal projects  
+
+My goal is to create robust, maintainable software that users love and engineers respect.
+
