@@ -11,5 +11,4 @@ I'm a Full Stack Engineer who thrives at the intersection of intuitive design an
 ☁️ **Tools & DevOps:** Git, Docker, CI/CD, Vercel, Railway  
 🎯 **Interests:** Scalable systems, UI/UX design, DevOps automation, personal projects  
 
-My goal is to create robust, maintainable software that users love and engineers respect.
 
